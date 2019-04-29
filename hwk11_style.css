@@ -1,0 +1,30 @@
+
+body{
+    background-color: lightgray
+}
+
+h1{
+    color: forestgreen
+}
+
+p{
+    color: forestgreen
+}
+
+
+#windy{
+    background-image:"https://www.lodderoofing.com/wp-content/uploads/2018/04/grass-tips-wind-grey-sky.jpg" 
+    }
+
+#footer{
+    border-bottom-color: springgreen
+
+}
+
+#heading_color{
+text-decoration-color: springgreen
+}
+
+#text_font{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
